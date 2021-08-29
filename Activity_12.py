@@ -9,6 +9,4 @@ elif(num2>num1) and (num2>num3):
         print(num2,"Is the greatest among two numbers")
 elif(num3>num1) and (num3>num2):
             print(num3,"Is the greatest among two numbers")
-            #Else used if all three are same
-else:
-                print("Three numbers are equal")
+      
